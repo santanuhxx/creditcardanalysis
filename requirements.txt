@@ -12,3 +12,7 @@ scikit-learn
 scipy
 six
 Werkzeug
+imbalanced-learn
+pandas
+matplotlib
+seaborn
